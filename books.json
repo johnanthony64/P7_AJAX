@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Brave New World",
+        "author": "Aldous Huxley",
+        "year": 1932
+    },
+    {
+        "name": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "year": 1967
+    },
+    {
+        "name": "Moby-Dick",
+        "author": "Herman Melville",
+        "year": 1851
+    },
+    {
+        "name": "War and Peace",
+        "author": "Leo Tolstoy",
+        "year": 1869
+    },
+    {
+        "name": "The Odyssey",
+        "author": "Homer",
+        "year": 800
+    },
+    {
+        "name": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "year": 1954
+    }
+]
+
